@@ -1,1 +1,1 @@
-
+Car price prediction using machine learning involves training models on historical car data, including features like brand, model, km driven manufacturer, fuel type,seats,engine,transmission and condition, to estimate the price of a vehicle. Algorithms such as linear regression, decision tree regression and random forest regression analyze patterns in the data to make accurate predictions. This helps buyers, sellers, and dealers determine fair market values, enhancing transparency in the automotive industry.
